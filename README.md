@@ -5,8 +5,10 @@ The goal of this application is to teach myself how to use the HTML canvas eleme
 
 ## KVADRUG background
 
-"Atypography is an art movement that graphically represents traditional writing systems in an unconventional way, creating an authentic design that remains readable while concealing text signs at first glance."
+"Atypography is an art movement that graphically represents traditional writing systems in an unconventional way, creating an authentic design that remains readable while concealing text signs at first glance." [https://www.atypography.com/manual]
 
-The font I am using is called KVADRUG HIKIKOMORI. The square represents the basis of the letter, and the points inside it represent the cavities. Here is the character set
+The font I am using is called KVADRUG HIKIKOMORI. The square represents the basis of the letter, and the points inside it represent the cavities. Here is the character set:
+
+![Kvadrug Character Set](/Kvadrug Character Set.jpg "Kvadrug")
 
  

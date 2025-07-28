@@ -7,6 +7,6 @@ The goal of this application is to teach myself how to use the HTML canvas eleme
 
 "Atypography is an art movement that graphically represents traditional writing systems in an unconventional way, creating an authentic design that remains readable while concealing text signs at first glance."
 
-The font I am using is called KVUDRUG HIKIKOMORI. The square represents the basis of the letter, and the points inside it represent the cavities. Here is the character set
+The font I am using is called KVADRUG HIKIKOMORI. The square represents the basis of the letter, and the points inside it represent the cavities. Here is the character set
 
  

@@ -7,8 +7,13 @@ The goal of this application is to teach myself how to use the HTML canvas eleme
 
 "Atypography is an art movement that graphically represents traditional writing systems in an unconventional way, creating an authentic design that remains readable while concealing text signs at first glance." [https://www.atypography.com/manual]
 
-The font I am using is called KVADRUG HIKIKOMORI. The square represents the basis of the letter, and the points inside it represent the cavities. Here is the character set:
+The font I am using is called KVADRUG HIKIKOMORI. The square represents the basis of the letter, and the circles inside it represent the cavities. The font was created by Svethe Grudi (I believe) [https://www.atypography.com/product-page/kvadrug-hikikomori]. Here is the character set:
 
-![Kvadrug Character Set](/Kvadrug Character Set.jpg "Kvadrug")
+![Kvadrug Character Set](/KvadrugCharacterSet.jpg "Kvadrug")
 
- 
+## Future Features
++ Style using bootstrap
++ Numbers 1-10
++ better input
++ ability to define number of characters on the x-axis
++ canvas reshaping

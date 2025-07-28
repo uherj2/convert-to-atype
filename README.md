@@ -13,7 +13,7 @@ The font I am using is called KVADRUG HIKIKOMORI. The square represents the basi
 
 ## Future Features
 + Style using bootstrap
-+ Numbers 1-10
++ Numbers 1-9
 + better input
 + ability to define number of characters on the x-axis
 + canvas reshaping
